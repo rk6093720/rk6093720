@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
 
-<h1 align="center"><b>नमस्ते</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,This is <a href="">Rohit Kumar</a> for you</h1>
+<h1 align="center"><b>नमस्ते</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="120px">,This is <a href="">Rohit Kumar</a> for you</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
