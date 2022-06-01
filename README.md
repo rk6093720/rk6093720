@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://cool-elf-35adea.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://poetic-cat-e6f2ce.netlify.app/)**
 
 - 📫 How to reach me *rk6093720@gmail.com*
 
