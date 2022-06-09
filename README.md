@@ -70,10 +70,11 @@
 <!-- <a href = "https://www.instagram.com/devil.in_side/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 </p>
-
+<!-- 
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abhishekgiri-cmd">
 </a>
 <a href="https://github.com/rk6093720?tab=followers"><img src="https://img.shields.io/github/followers/Imaryan08?label=Followers&style=social" alt="GitHub Badge"></a>
+ -->
