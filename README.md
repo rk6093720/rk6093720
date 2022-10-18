@@ -1,7 +1,7 @@
 <!-- <img align="right" alt="GIF" clear = "both" src="https://github.com/rk6093720/rk6093720/blob/master/code.gif?raw=true" width="440" height="250" /> -->
 <h1 align="center"><b>नमस्ते</b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="70" height="50"> ,This is <a href="">Rohit Kumar</a> for you</h1>
 <p align="center">
-<a href="#"><img  widht="40" align="center" height="400" src="https://github.com/rk6093720/rk6093720/blob/master/code.gif?raw=true" height="90"/></a>
+<a href="#"><img  widht="40" align="center" height="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="90"/></a>
     </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
