@@ -47,21 +47,23 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats -->
 
   <br/>
     <a href="https://github.com/rk6093720?tab=stars"><img alt="Rohit Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rk6093720&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--   # 📊 GitHub Stats:
+(https://github-readme-stats.vercel.app/api?username=rk6093720&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+(https://github-readme-streak-stats.herokuapp.com/?user=rk6093720&theme=dark&hide_border=false)<br/>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=rk6093720&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rk6093720&theme=github_dark)
 
 <br/>
+<!-- <a href="https://github.com/rk6093720-cmd/github-readme-activity-graph"><img alt="Rohit Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rk6093720&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
-
-<a href="https://github.com/rk6093720-cmd/github-readme-activity-graph"><img alt="Rohit Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rk6093720&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 
 <p align="left">
