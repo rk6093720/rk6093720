@@ -12,13 +12,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[blinkit website](https://leafy-truffle-fd13b5.netlify.app/)**
+- 🔭 I have completed a course of full stack web developer
 
 - 🌱 I’m currently learning *<a href="">Data Structures and Algorithms </a>, <a href="">MongoDB</a>, <a href="">ExpressJs</a>, <a href="">React</a>, <a href="">NodeJs </a>*
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at **[https://rk6093720.github.io/]**
+- 👨‍💻 All of my projects are available at **https://rk6093720.github.io/**
 
 - 📫 How to reach me *rk6093720@gmail.com*
 
