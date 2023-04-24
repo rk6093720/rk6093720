@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rk6093720.github.io/)**
+- 👨‍💻 All of my projects are available at **[https://rk6093720.github.io/]**
 
 - 📫 How to reach me *rk6093720@gmail.com*
 
