@@ -68,6 +68,7 @@
 
 <a href = "https://www.linkedin.com/in/rohit-kumar-6b1b421a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href="https://github.com/rk6093720"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="50"/></a>
+    <a href="https://rk6093720.github.io/">Portfolio </a>
 <!-- <a href = "https://twitter.com/nowitsgiri"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <!-- <a href = "https://www.instagram.com/devil.in_side/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
