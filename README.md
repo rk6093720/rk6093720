@@ -14,7 +14,7 @@
 
 - 🔭 I have completed a course of full stack web developer
 
-- 🌱 I’m currently learning *<a href="">Data Structures and Algorithms </a>, <a href="">MongoDB</a>, <a href="">ExpressJs</a>, <a href="">React</a>, <a href="">NodeJs </a>*
+- 🌱 I’m currently learning Data Structures and Algorithms, React js, MongoDB, ExpressJs, NodeJs
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
