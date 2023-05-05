@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
 
-<!-- - 👨‍💻 visit my portfolio- <a href='https://rk6093720.github.io/'>Portfolio </a> -->
+- 👨‍💻 visit my portfolio- <a href='https://rk6093720.github.io/'>Portfolio </a>
 
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
 
