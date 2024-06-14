@@ -1,5 +1,5 @@
 
- 👨‍💻 visit my portfolio- <a href='https://rk6093720.github.io/portfolio-react/'>Portfolio </a>
+ 👨‍💻 visit my portfolio- <a href='https://rk6093720.github.io/Portfolio/'>Portfolio </a>
 <h1 align="center"><b>नमस्ते</b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="70" height="50"> ,This is Rohit Kumar for you</h1>
 <p align="center">
 <a href="#"><img  widht="40" align="center" height="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="90"/></a>
@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at https://rk6093720.github.io/portfolio-react/
+- 👨‍💻 All of my projects are available at https://rk6093720.github.io/Portfolio/
 
 - 📫 How to reach me *rk6093720@gmail.com*
 
@@ -67,7 +67,7 @@
 
 <a href = "https://www.linkedin.com/in/rohit-kumar-6b1b421a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href="https://github.com/rk6093720"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="50"/></a>
-    <a href="https://rk6093720.github.io/portfolio-react/"><img src="https://designnotes.blog.gov.uk/wp-content/uploads/sites/53/2020/06/Portfolio-Desk.jpg" border-radius="50%" height="50"/> </a>
+    <a href="https://rk6093720.github.io/Portfolio/"><img src="https://designnotes.blog.gov.uk/wp-content/uploads/sites/53/2020/06/Portfolio-Desk.jpg" border-radius="50%" height="50"/> </a>
 <!-- <a href = "https://twitter.com/nowitsgiri"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <!-- <a href = "https://www.instagram.com/devil.in_side/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
